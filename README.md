@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personnal project on data science
+- 🌱 I’m currently learning python and R
 <!--
 **Sedrickgael/Sedrickgael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -29,4 +31,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+<br/>
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/Sedrickgael"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sedrickgael/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/gael.kaseg"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://gitlab.com/Sedrickgael"><img src="https://img.icons8.com/bubbles/50/000000/code-fork.png" alt="GitLab"/></a>
+</p>
